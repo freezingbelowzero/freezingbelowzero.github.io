@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./assets/css/style.css" />
-    <title>Discord Profile Card - New</title>
+    <title>@Jayden</title>
   </head>
   <body>
     <div class="card-container">
@@ -20,7 +20,7 @@
         <div class="card-body">
           <div class="profile-header">
             <div class="profil-logo">
-              <img src="https://cdn.discordapp.com/icons/1123069621633822752/a_b5e7d609c90eacfa5e0ed1e64c163816.gif?size=256" />
+              <img src="https://i.scdn.co/image/ab6775700000ee85617cb265c72d07e0533fa991" />
             </div>
             <div class="badges-container">
               <div class="badge-item">
@@ -86,7 +86,7 @@
             </div>
           </div>
           <div class="profile-body">
-            <div class="username">7<span>#0001</span>
+            <div class="username">Jayden<span>#0001</span>
               <div class="badge">OWNER</div>
             </div>
             <hr />
@@ -113,7 +113,7 @@
               <textarea placeholder="Click for add a note"></textarea>
             </div>
             <div class="message">
-              <input type="text" placeholder="Send a message to @Sybrax" />
+              <input type="text" placeholder="Send a message to @Jayden" />
             </div>
           </div>
         </div>
