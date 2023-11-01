@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>@ls</title>
+  </head>
+  <body>
+    <div class="card-container">
+      <!-- First Card -->
+      <div class="card nitro-card">
+        <div class="card-header">
+          <div
+            style="background: url('https://th.bing.com/th/id/OIP.5j4WlmVT2ccGzAHr6ZwsJAHaEa')"
+            class="banner-img"
+          ></div>
+        </div>
+        <div class="card-body">
+          <div class="profile-header">
+            <div class="profil-logo">
+              <img src="https://i.scdn.co/image/ab6775700000ee85617cb265c72d07e0533fa991" />
+            </div>
+            <div class="badges-container">
+              <div class="badge-item">
+                <img src="./assets/img/badges/earlyverifiedbotdev.png" alt="" />
+                <div class="tooltip tooltip-up">Early Byet Bot Developer</div>
+              </div>
+              <div class="badge-item">
+                <img src="./assets/img/badges/discordstaff.png" alt="" />
+                <div class="tooltip tooltip-up">Byet Staff</div>
+              </div>
+            </div>
+          </div>
+          <div class="profile-body">
+            <div class="username">L+S
+              <div class="badge">BOT</div>
+            </div>
+            <hr />
+            <div class="basic-infos">
+              <div class="category-title">About Me</div>
+              <p><b>Me</b>. <br />
+                Moderator Program >> <a href="./mod-program" target="_blank">Click</a>
+              </p>
+            </div>
+            <div class="basic-infos">
+              <div class="category-title">Member Since</div>
+              <p>Jun 14, 2001</p>
+            </div>
+            <div class="roles">
+              <div class="category-title">[DEFAULT] Roles</div>
+              <div class="roles-list">
+                <div class="role">
+                  <p>Official Owner's Account</p>
+                </div>
+              </div>
+            </div>
+            <div class="note">
+              <div class="category-title">Note</div>
+              <textarea placeholder="Click for add a note"></textarea>
+            </div>
+            <div class="message">
+              <input type="text" placeholder="Send a message to @ls" />
+            </div>
+          </div>
+        </div>
+      </div>
+    <div class="help-btn">?</div>
+    <script src="./assets/js/demo.js"></script>
+  </body>
+</html>
